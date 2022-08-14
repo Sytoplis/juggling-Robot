@@ -1,0 +1,29 @@
+{
+    "JugglingRobotV1": {
+        "checkpoints": [
+            {
+                "steps": 343925,
+                "file_path": "results\\jugglingRobotV1\\JugglingRobotV1\\JugglingRobotV1-343925.onnx",
+                "reward": 0.07291666666666667,
+                "creation_time": 1660511085.3335507,
+                "auxillary_file_paths": [
+                    "results\\jugglingRobotV1\\JugglingRobotV1\\JugglingRobotV1-343925.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 343925,
+            "file_path": "results\\jugglingRobotV1\\JugglingRobotV1.onnx",
+            "reward": 0.07291666666666667,
+            "creation_time": 1660511085.3335507,
+            "auxillary_file_paths": [
+                "results\\jugglingRobotV1\\JugglingRobotV1\\JugglingRobotV1-343925.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
